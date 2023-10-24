@@ -1,7 +1,11 @@
 const TelegramBot = require('node-telegram-bot-api');
 const mysql = require('mysql');
 
-// Reemplaza con tu token de bot generado por BotFather
+// Equipo
+// Sachenka Acevedo
+// Diana Aragon
+//Mariangel Contreras
+//Juan Celaya
 const token = '6547205604:AAHf4NuCkE_1Mj0gYhApH78fgnj0GCdj3hQ';
 
 // Configuración de la conexión a la base de datos
